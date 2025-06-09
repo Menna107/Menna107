@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi! I'm Menna Hekal
 
-<!--
-**Menna107/Menna107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at the Faculty of Computers and Artificial Intelligence – Cairo University 🎓  
+I'm passionate about software development 💻 and currently learning artificial intelligence and web development.
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+- **Languages:** C++, Python, Java, SQL  
+- **Technologies:** HTML, CSS, JavaScript, Django, WinForms  
+- **Concepts:** OOP, Data Structures, Databases, Design Patterns, SOLID, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me:
+- **Email:** menna0hekal2020@email.com  
+- **LinkedIn:** [Menna Hekal](https://www.linkedin.com/in/menna-hekal-231286294/)  
+- **GitHub:** [Menna107](https://github.com/Menna107)  
+- **Codeforces:** [MennaHekal](https://codeforces.com/profile/MennaHekal)
+
+---
+
+> I'm always eager to learn, build, and share new projects ❤️
