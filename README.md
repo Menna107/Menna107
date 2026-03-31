@@ -87,13 +87,6 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Menna107&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna107&layout=compact&theme=tokyonight"/>
-</p>
-
-<!-- Optional extra fun stats -->
-
-<p align="center">
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna107&theme=tokyonight"/>
 
