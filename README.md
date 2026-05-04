@@ -8,7 +8,6 @@ Frontend Developer • Problem Solver • C++ Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=7F5AF0&center=true&vCenter=true&width=850&lines=Building+beautiful+and+efficient+software;Exploring+Frontend+and+Systems;Always+learning+new+things"/>
 </p>
 
-
 <p align="center">
 <a href="mailto:menna0hekal2020@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
@@ -58,34 +57,28 @@ Currently Learning:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Menna107&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Menna107&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna107&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Menna107&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna107&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Menna107&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna107&theme=tokyo-night"/>
-</p>
-
 
 ---
-
 
 ## 📌 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/Menna107/FarMart">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=FarMart&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=FarMart&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Menna107/SocialMediaWebsite">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=SocialMediaWebsite&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=SocialMediaWebsite&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </p>
@@ -93,11 +86,11 @@ Currently Learning:
 <p align="center">
 
 <a href="https://github.com/Menna107/library_Website">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=library_Website&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=library_Website&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Menna107/Fcai-Tic-Tac-Toe-Games">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=Fcai-Tic-Tac-Toe-Games&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=Fcai-Tic-Tac-Toe-Games&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </p>
@@ -105,17 +98,17 @@ Currently Learning:
 <p align="center">
 
 <a href="https://github.com/Menna107/Wanderlust">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=Wanderlust&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=Wanderlust&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Menna107/Kanban-Board-Task-Manager">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Menna107&repo=Kanban-Board-Task-Manager&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Menna107&repo=Kanban-Board-Task-Manager&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </p>
 
+---
 
 <p align="center">
-<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=120&section=footer"/>
 </p>
-
